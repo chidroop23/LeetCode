@@ -8,4 +8,4 @@ class Solution:
                 l = r 
             res = max(res, prices[r] - prices[l])
         return res
-        
+    
